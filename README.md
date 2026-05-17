@@ -1,8 +1,8 @@
-# Smart Parking Assistant System
+# Parking Assistant
 
 ## Introduction to the Problem and the Solution
 
-Proses parkir kendaraan sering kali menjadi sulit, terutama pada area yang sempit atau padat kendaraan. Keterbatasan jarak pandang pengemudi dapat menyebabkan kesalahan dalam memperkirakan jarak antara kendaraan dan objek di sekitarnya sehingga meningkatkan risiko terjadinya benturan saat parkir. Untuk mengatasi permasalahan tersebut, proyek ini mengimplementasikan sebuah Smart Parking Assistant System berbasis embedded system menggunakan mikrokontroler AVR dan sensor ultrasonik HC-SR04. Sistem dirancang untuk mendeteksi jarak kendaraan terhadap objek secara real-time dan memberikan peringatan kepada pengemudi melalui tampilan LCD, LED, dan buzzer. Jarak yang terdeteksi akan ditampilkan pada LCD I2C beserta status kondisi parkir seperti **Safe**, **Caution**, dan **Stop**. Selain itu, LED indikator dan buzzer digunakan sebagai peringatan tambahan, di mana frekuensi bunyi buzzer akan semakin cepat ketika kendaraan semakin dekat dengan objek.
+Proses parkir kendaraan sering kali menjadi sulit, terutama pada area yang sempit atau padat kendaraan. Keterbatasan jarak pandang pengemudi dapat menyebabkan kesalahan dalam memperkirakan jarak antara kendaraan dan objek di sekitarnya sehingga meningkatkan risiko terjadinya benturan saat parkir. Untuk mengatasi permasalahan tersebut, proyek ini mengimplementasikan sebuah Parking Assistant berbasis embedded system menggunakan mikrokontroler AVR dan sensor ultrasonik HC-SR04. Sistem dirancang untuk mendeteksi jarak kendaraan terhadap objek secara real-time dan memberikan peringatan kepada pengemudi melalui tampilan LCD, LED, dan buzzer. Jarak yang terdeteksi akan ditampilkan pada LCD I2C beserta status kondisi parkir seperti **Safe**, **Caution**, dan **Stop**. Selain itu, LED indikator dan buzzer digunakan sebagai peringatan tambahan, di mana frekuensi bunyi buzzer akan semakin cepat ketika kendaraan semakin dekat dengan objek.
 
 ---
 
